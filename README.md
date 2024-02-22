@@ -11,7 +11,7 @@ My tech stack is mostly Unity these days, altrough I took my share with Rust (lo
 Hope to bring more open-source project to bear here, you can explore what I already have to offer below. Oh, and regarding animations on this page - these were comissioned by me and executed by the talented artist, [Spiritaelia](https://www.deviantart.com/spiritaelia) (originals [here](https://www.deviantart.com/spiritaelia/art/Bed-of-gold-Stable-Animation-609846077) and [here](https://www.deviantart.com/spiritaelia/art/COM-Stray-Soul-4-762064293) ).
 
 Cheers,
-Stray Soul 'aka Shelim
+*Stray Soul 'aka Shelim*
 
 ---
 
